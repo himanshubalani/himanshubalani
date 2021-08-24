@@ -18,10 +18,10 @@ You can reach me through these links
 **On Weekdays**
 
 <a href="mailto:himanshubalaniworks@gmail.com">
-  <img align="left" alt="Himanshu's Email" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-</a>
+  <img align="center" alt="Himanshu's Email" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/himanshubalani/">
-  <img align="left" alt="Himanshu's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Himanshu's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br/>
@@ -32,10 +32,10 @@ You can reach me through these links
 
 <a href="https://discordapp.com/users/759807486831099928">
   <img align="left" alt="Himanshu's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/himanshubalani">
   <img align="left" alt="Himanshu's Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
-</a>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/himanshubalani5">
   <img align="left" alt="Himanshu's Twitter | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -46,12 +46,12 @@ You can reach me through these links
 ### Languages/Tools I can work with
 <div align="left"><span>
   
-  <img width="40px" src="https://img.icons8.com/color/240/000000/c-programming.png" /> 
-  <img width="40px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" /> 
-  <img width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img width="40px" src="https://img.icons8.com/office/80/000000/markdown.png"/>
-  <img width="40px" src="https://img.icons8.com/color/144/000000/windows-10.png"/>
-  <img width="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/>
+  <img width="40px" src="https://img.icons8.com/color/240/000000/c-programming.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://img.icons8.com/office/80/000000/markdown.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://img.icons8.com/color/144/000000/windows-10.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/> 
 
   </br>
   
