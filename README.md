@@ -1,10 +1,9 @@
-## Hello! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm
+## Hello! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm        
 
 ![Himanshu (1)](https://user-images.githubusercontent.com/85930567/130409887-7c0452c9-89ff-4a22-adb3-e3a47e9fbd1d.png)
 
-<img src="https://user-images.githubusercontent.com/85930567/130579972-d60ad7bb-71a9-4ae4-8f86-0db41b681cbf.png" align="right" />
+ <img src="https://komarev.com/ghpvc/?username=himanshubalani&color=15003d&style=flat-square&label=Visitors" align="right" width="120px"/>
 
-     
      
 - 🔭 I’m currently working on increasing my skillset.
 - 🌱 I’m currently learning C++
