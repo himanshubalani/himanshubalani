@@ -28,10 +28,6 @@
 You can reach me through these links
 
 **On Weekdays**
-
-  <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshubalani&show_icons=true&theme=outrun"
-</p
    
 <a href="mailto:himanshubalaniworks@gmail.com">
   <img align="center" alt="Himanshu's Email" width="60px" src="https://cdn.dribbble.com/users/4874/screenshots/1776423/media/6e4d3ae0ce7b2a17982d5837e8d37c75.gif" />
@@ -63,7 +59,9 @@ You can reach me through these links
   <img align="center" width="100px" src="https://cdn.dribbble.com/users/3691429/screenshots/15011694/media/de5e456a97d40dd5b9e50693c476dd7b.gif"  />
 </a>
 
-
+<p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshubalani&show_icons=true&theme=outrun"
+</p
   
 
 </br>
