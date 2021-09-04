@@ -1,10 +1,7 @@
 ## Hello! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm        
 
 ![Himanshu (1)](https://user-images.githubusercontent.com/85930567/130409887-7c0452c9-89ff-4a22-adb3-e3a47e9fbd1d.png)
- 
-<p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshubalani&show_icons=true&theme=outrun"
-</p
+
      
 - 🔭 I’m currently working on increasing my skillset.
 - 🌱 I’m currently learning C++
@@ -32,6 +29,10 @@ You can reach me through these links
 
 **On Weekdays**
 
+  <p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=himanshubalani&show_icons=true&theme=outrun"
+</p
+   
 <a href="mailto:himanshubalaniworks@gmail.com">
   <img align="center" alt="Himanshu's Email" width="60px" src="https://cdn.dribbble.com/users/4874/screenshots/1776423/media/6e4d3ae0ce7b2a17982d5837e8d37c75.gif" />
 </a> 
@@ -39,7 +40,7 @@ You can reach me through these links
   <img align="center" alt="Himanshu's LinkedIN" width="75px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" />
 </a>
 
-<br/>
+<br/>  
 <br/>
 
 
