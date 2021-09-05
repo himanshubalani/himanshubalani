@@ -1,0 +1,5 @@
+![372102050_LINKEDIN_ICON_TRANSPARENT_400](https://user-images.githubusercontent.com/85930567/132117922-9ab7a77e-8a5a-4d1e-b3f6-7e11121ac412.gif)
+![371907030_TWITTER_ICON_TRANSPARENT_400](https://user-images.githubusercontent.com/85930567/132118046-9f348a79-f52f-43a9-a871-21def0976d07.gif)
+![371907300_INSTAGRAM_ICON_TRANSPARENT_400](https://user-images.githubusercontent.com/85930567/132117999-40894dbc-6937-4eb4-b95f-9b71a5527581.gif)
+![email](https://user-images.githubusercontent.com/85930567/132117835-c3abdd19-8336-4f45-a08e-65fa9419b9d4.gif)
+![372108630_DISCORD_LOGO_400](https://user-images.githubusercontent.com/85930567/132117931-291284ca-2d7f-48f2-bd29-ca4223017e99.gif)
