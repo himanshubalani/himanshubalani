@@ -24,8 +24,12 @@
   </br>
      
      
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshubalani&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshubalani&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
      
+[![Image of https://github.com/himanshubalani/profile-view-counter](https://github.com/himanshubalani/profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/himanshubalani/profile-view-counter)
+
+
+
      
 ## Let's Talk
 
@@ -56,5 +60,5 @@ You can reach me through these links
   <img align="left" alt="Himanshu's Twitter | Twitter" width="70px" src="https://user-images.githubusercontent.com/85930567/132118046-9f348a79-f52f-43a9-a871-21def0976d07.gif" /> &nbsp;&nbsp;&nbsp;
 </a>
 
-     
+   
      
