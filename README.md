@@ -29,6 +29,8 @@
 [![Image of https://github.com/himanshubalani/profile-view-counter](https://github.com/himanshubalani/profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/himanshubalani/profile-view-counter)
 
 
+ [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=himanshubalani5)](https://github.com/gazf/github-readme-twitter)
+
 
      
 ## Let's Talk
@@ -44,8 +46,8 @@ You can reach me through these links
   <img align="center" alt="Himanshu's LinkedIN" width="70px" src="https://user-images.githubusercontent.com/85930567/132117922-9ab7a77e-8a5a-4d1e-b3f6-7e11121ac412.gif" />
 </a>
 
-<br/>  
-<br/>
+</br>  
+</br>
 
 
 **On Weekends**
@@ -59,6 +61,7 @@ You can reach me through these links
 <a href="https://twitter.com/himanshubalani5">
   <img align="left" alt="Himanshu's Twitter | Twitter" width="70px" src="https://user-images.githubusercontent.com/85930567/132118046-9f348a79-f52f-43a9-a871-21def0976d07.gif" /> &nbsp;&nbsp;&nbsp;
 </a>
+    
 
    
      
