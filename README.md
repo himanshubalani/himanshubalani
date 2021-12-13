@@ -29,7 +29,6 @@
 [![Image of https://github.com/himanshubalani/profile-view-counter](https://github.com/himanshubalani/profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/himanshubalani/profile-view-counter)
 
 
- [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=himanshubalani5&show_retweet=off)](https://github.com/gazf/github-readme-twitter)
 
 
      
