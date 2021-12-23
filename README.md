@@ -44,6 +44,9 @@ You can reach me through these links
 <a href="https://www.linkedin.com/in/himanshubalani/">
   <img align="center" alt="Himanshu's LinkedIN" width="70px" src="https://user-images.githubusercontent.com/85930567/132117922-9ab7a77e-8a5a-4d1e-b3f6-7e11121ac412.gif" />
 </a>
+<a href="https://g.dev/himanshubalani">
+  <img align="center" alt="Himanshu's Google Developer Profile" width="70px" src="https://user-images.githubusercontent.com/85930567/147275833-71fc910c-e460-49d4-8d5e-6882cd104538.png" />
+</a>
 
 </br>  
 </br>
