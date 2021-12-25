@@ -17,9 +17,13 @@
   <img width="40px" src="https://img.icons8.com/color/240/000000/c-programming.png" /> &nbsp;&nbsp;&nbsp;
   <img width="40px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" /> &nbsp;&nbsp;&nbsp;
   <img width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"/> &nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://img.icons8.com/color/48/000000/flutter.png"/> &nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp;&nbsp;&nbsp;
   <img width="40px" src="https://img.icons8.com/office/80/000000/markdown.png"/> &nbsp;&nbsp;&nbsp;
   <img width="40px" src="https://img.icons8.com/color/144/000000/windows-10.png"/> &nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/> 
+  <img width="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/> &nbsp;&nbsp;&nbsp;
+  <img width="40px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
 
   </br>
      
@@ -63,7 +67,4 @@ You can reach me through these links
 <a href="https://twitter.com/himanshubalani5">
   <img align="left" alt="Himanshu's Twitter | Twitter" width="70px" src="https://user-images.githubusercontent.com/85930567/132118046-9f348a79-f52f-43a9-a871-21def0976d07.gif" /> &nbsp;&nbsp;&nbsp;
 </a>
-    
-
-   
-     
+</br>
