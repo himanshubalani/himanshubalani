@@ -14,16 +14,15 @@
 ## Languages/Tools I can work with
 <div align="left"><span>
   
-  <img width="40px" src="https://img.icons8.com/color/240/000000/c-programming.png" /> &nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" /> &nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"/> &nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://img.icons8.com/color/48/000000/flutter.png"/> &nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://img.icons8.com/office/80/000000/markdown.png"/> &nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://img.icons8.com/color/144/000000/windows-10.png"/> &nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/> &nbsp;&nbsp;&nbsp;
-  <img width="40px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+  <img title="C" width="40px" src="https://img.icons8.com/color/240/000000/c-programming.png" /> &nbsp;&nbsp;&nbsp;
+  <img title="C++" width="40px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" /> &nbsp;&nbsp;&nbsp;
+  <img title="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"/> &nbsp;&nbsp;&nbsp;
+  <img title="Dart" width="40px" src="https://img.icons8.com/color/50/000000/dart.png"/> &nbsp;&nbsp;&nbsp;
+  <img title="HTML 5" width="40px" src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp;&nbsp;&nbsp;
+  <img title="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp;&nbsp;&nbsp;
+  <img title="Markdown" width="40px" src="https://img.icons8.com/office/80/000000/markdown.png"/> &nbsp;&nbsp;&nbsp;
+  <img title="VS Code" width="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/> &nbsp;&nbsp;&nbsp;
+  <img title="Android Studio" width="40px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
 
   </br>
      
