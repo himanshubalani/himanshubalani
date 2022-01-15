@@ -4,7 +4,7 @@
 
      
 - 🔭 I’m currently working on increasing my skillset.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Flutter and Dart.
 - 🥇 I'm proficient in Python and it's libraries.
 - 🎓I'm a sophomore and am pursuing a degree in CS.
 - 🌟 I Like Magnets🧲 and Cosmology
