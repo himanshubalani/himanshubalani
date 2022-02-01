@@ -4,10 +4,10 @@
 
      
 - 🔭 I’m currently working on increasing my skillset.
-- 🌱 I’m currently learning Flutter and Dart.
+- 🌱 I’m currently learning a lot of stuff like DBMS, DSA, Flutter and Dart among others.
 - 🥇 I'm proficient in Python and it's libraries.
-- 🎓I'm a sophomore and am pursuing a degree in CS.
-- 🌟 I Like Magnets🧲 and Cosmology
+- 🎓 I'm a sophomore and am pursuing a degree in CS.
+- 🌟 Fun Fact: I Like Magnets🧲 and Cosmology. Lat's have an existential crisis together.🙂
 - 😄 Pronouns: He/Him
 
 
