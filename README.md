@@ -22,6 +22,7 @@
   <img title="HTML 5" width="40px" src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp;&nbsp;&nbsp;
   <img title="CSS3" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp;&nbsp;&nbsp;
   <img title="Markdown" width="40px" src="https://img.icons8.com/office/80/000000/markdown.png"/> &nbsp;&nbsp;&nbsp;
+  <img title="Git" width="40px" src="https://user-images.githubusercontent.com/85930567/155733391-1cad1bbc-b9d6-4fd9-91c2-37f778f88a96.png" /> &nbsp;&nbsp;&nbsp;
   <img title="VS Code" width="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/> &nbsp;&nbsp;&nbsp;
   <img title="Android Studio" width="40px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
 
