@@ -12,7 +12,6 @@
 
 
 ## Languages/Tools I can work with
-<div align="left"><span>
   
   <img title="C" width="40px" src="https://img.icons8.com/color/240/000000/c-programming.png" /> &nbsp;&nbsp;&nbsp;
   <img title="C++" width="40px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" /> &nbsp;&nbsp;&nbsp;
@@ -33,10 +32,11 @@
 [![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshubalani&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
      
 [![Image of https://github.com/himanshubalani/profile-view-counter](https://github.com/himanshubalani/profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/himanshubalani/profile-view-counter)
+<br>
 
+See this Snake Game with my contributions
 ![snake gif](https://github.com/himanshubalani/himanshubalani/blob/output/github-contribution-grid-snake.gif)
 
-<div align="center">
      
 ## Let's Talk
 
@@ -76,6 +76,5 @@ You can reach me through these links
 <br>
 
 
-**Thanks for Visisting my Profile. Here have a cookie. 🍪**
+**Thanks for Visiting my Profile. Here have a cookie. 🍪**
 
-</div>
