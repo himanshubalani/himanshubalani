@@ -34,7 +34,7 @@
      
 [![Image of https://github.com/himanshubalani/profile-view-counter](https://github.com/himanshubalani/profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/himanshubalani/profile-view-counter)
 
-
+![snake gif](https://github.com/himanshubalani/himanshubalani/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
      
