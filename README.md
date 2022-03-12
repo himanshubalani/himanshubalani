@@ -36,19 +36,20 @@
 
 
 
-
+<div align="center">
      
 ## Let's Talk
 
 You can reach me through these links
 
+     
 **On Weekdays**
    
 <a href="mailto:himanshubalaniworks@gmail.com">
   <img align="center" alt="Himanshu's Email" width="60px" src="https://user-images.githubusercontent.com/85930567/132117835-c3abdd19-8336-4f45-a08e-65fa9419b9d4.gif" />
 </a> 
 <a href="https://www.linkedin.com/in/himanshubalani/">
-  <img align="center" alt="Himanshu's LinkedIN" width="70px" src="https://user-images.githubusercontent.com/85930567/132117922-9ab7a77e-8a5a-4d1e-b3f6-7e11121ac412.gif" />
+  <img align="center" alt="Himanshu's Linkedin" width="70px" src="https://user-images.githubusercontent.com/85930567/132117922-9ab7a77e-8a5a-4d1e-b3f6-7e11121ac412.gif" />
 </a>
 <a href="https://g.dev/himanshubalani">
   <img align="center" alt="Himanshu's Google Developer Profile" width="70px" src="https://user-images.githubusercontent.com/85930567/147275833-71fc910c-e460-49d4-8d5e-6882cd104538.png" />
@@ -61,12 +62,20 @@ You can reach me through these links
 **On Weekends**
 
  <a href="https://instagram.com/himanshubalani">
-  <img align="left" alt="Himanshu's Instagram" width="70px" src="https://user-images.githubusercontent.com/85930567/132117999-40894dbc-6937-4eb4-b95f-9b71a5527581.gif" />
+  <img alt="Himanshu's Instagram" width="70px" src="https://user-images.githubusercontent.com/85930567/132117999-40894dbc-6937-4eb4-b95f-9b71a5527581.gif" />
 </a> 
 <a href="https://discordapp.com/users/759807486831099928">
-  <img align = "left" alt="Himanshu's Discord" width="70px" src="https://user-images.githubusercontent.com/85930567/132117931-291284ca-2d7f-48f2-bd29-ca4223017e99.gif" />
+  <img alt="Himanshu's Discord" width="70px" src="https://user-images.githubusercontent.com/85930567/132117931-291284ca-2d7f-48f2-bd29-ca4223017e99.gif" />
 </a> 
 <a href="https://twitter.com/himanshubalani5">
-  <img align="left" alt="Himanshu's Twitter | Twitter" width="70px" src="https://user-images.githubusercontent.com/85930567/132118046-9f348a79-f52f-43a9-a871-21def0976d07.gif" /> &nbsp;&nbsp;&nbsp;
+  <img alt="Himanshu's Twitter" width="70px" src="https://user-images.githubusercontent.com/85930567/132118046-9f348a79-f52f-43a9-a871-21def0976d07.gif" /> &nbsp;&nbsp;&nbsp;
 </a>
-</br>
+
+<br>
+
+<br>
+
+
+**Thanks for Visisting my Profile. Here have a cookie. 🍪**
+
+</div>
