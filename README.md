@@ -21,10 +21,12 @@
   <img title="HTML 5" height="40px" src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp;&nbsp;&nbsp;
   <img title="CSS3" height="40px" src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp;&nbsp;&nbsp;
   <img title="Markdown" height="40px" src="https://img.icons8.com/office/80/000000/markdown.png"/> &nbsp;&nbsp;&nbsp;
+  <img title="Google Cloud" height="40px" src="https://user-images.githubusercontent.com/85930567/175771081-bb6c0e28-5fab-4c71-9639-dabf475d571a.png"/> &nbsp;&nbsp;&nbsp;
   <img title="Git" height="40px" src="https://user-images.githubusercontent.com/85930567/155733391-1cad1bbc-b9d6-4fd9-91c2-37f778f88a96.png" /> &nbsp;&nbsp;&nbsp;
   <img title="Flutter" height="40px" src="https://user-images.githubusercontent.com/85930567/147389443-b0e06295-4659-4b21-a6ac-0c69bc3baafb.png"/> &nbsp;&nbsp;&nbsp;
   <img title="VS Code" height="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/> &nbsp;&nbsp;&nbsp;
   <img title="Android Studio" height="40px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
+  
 
   </br>
      
@@ -46,13 +48,14 @@ You can reach me through these links
 **On Weekdays**
    
 <a href="mailto:himanshubalaniworks@gmail.com">
-  <img align="center" alt="Himanshu's Email" height="60px" src="https://user-images.githubusercontent.com/85930567/132117835-c3abdd19-8336-4f45-a08e-65fa9419b9d4.gif" />
+  <img align="center" alt="Himanshu's Email" height="70px" src="https://user-images.githubusercontent.com/85930567/175770833-302b4ef2-faeb-421f-88eb-744737a4ad74.png"
+/>
 </a> 
 <a href="https://www.linkedin.com/in/himanshubalani/">
-  <img align="center" alt="Himanshu's Linkedin" height="70px" src="https://user-images.githubusercontent.com/85930567/132117922-9ab7a77e-8a5a-4d1e-b3f6-7e11121ac412.gif" />
+  <img align="center" alt="Himanshu's Linkedin" height="70px" src="https://user-images.githubusercontent.com/85930567/175769904-8f101a4f-5415-4855-83d8-11e8c1ee37b1.png" />
 </a>
 <a href="https://g.dev/himanshubalani">
-  <img align="center" alt="Himanshu's Google Developer Profile" width="70px" src="https://user-images.githubusercontent.com/85930567/147275833-71fc910c-e460-49d4-8d5e-6882cd104538.png" />
+  <img align="center" alt="Himanshu's Google Developer Profile" width="70px" src="https://user-images.githubusercontent.com/85930567/175770868-0b88739f-92b1-4fe3-8a44-a801282a7257.png" />
 </a>
 
 </br>  
@@ -62,13 +65,13 @@ You can reach me through these links
 **On Weekends**
 
  <a href="https://instagram.com/himanshubalani">
-  <img alt="Himanshu's Instagram" height="70px" src="https://user-images.githubusercontent.com/85930567/132117999-40894dbc-6937-4eb4-b95f-9b71a5527581.gif" />
+  <img alt="Himanshu's Instagram" height="70px" src="https://user-images.githubusercontent.com/85930567/175769762-aa808175-4426-428d-b383-8edd363c3573.png" />
 </a> 
 <a href="https://discordapp.com/users/759807486831099928">
-  <img alt="Himanshu's Discord" height="70px" src="https://user-images.githubusercontent.com/85930567/132117931-291284ca-2d7f-48f2-bd29-ca4223017e99.gif" />
+  <img alt="Himanshu's Discord" height="70px" src="https://user-images.githubusercontent.com/85930567/175769817-444e4770-eb38-4714-bdce-43cf91ef56f4.png" />
 </a> 
 <a href="https://twitter.com/himanshubalani5">
-  <img alt="Himanshu's Twitter" height="70px" src="https://user-images.githubusercontent.com/85930567/132118046-9f348a79-f52f-43a9-a871-21def0976d07.gif" /> &nbsp;&nbsp;&nbsp;
+  <img alt="Himanshu's Twitter" height="70px" src="https://user-images.githubusercontent.com/85930567/175769742-c9d3423c-690f-4782-8dd7-676d6aebc036.png" /> &nbsp;&nbsp;&nbsp;
 </a>
 
 <br>
