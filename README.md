@@ -32,6 +32,33 @@
  
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://himanshubalani.hashnode.dev//my-experience-with-keploy-api-fellowship" title="My experience with Keploy API Fellowship"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675880927980/9ad853c7-0bd7-47d6-ab26-5475bc3cde1c.png" alt="My experience with Keploy API Fellowship" width="250px" align="left" /></a>
+<a href="https://himanshubalani.hashnode.dev//my-experience-with-keploy-api-fellowship" title="My experience with Keploy API Fellowship"><strong>My experience with Keploy API Fellowship</strong></a>
+<br/> Late last year, I took the opportunity to partake in the Fellowship and for the last 2 weeks, I've been attending their sessions and learning all about APIs.
+What is Keploy?
+Keploy is an open-source end-to-end testing toolkit for developers that gene... </p> <br/> <br/>
+<p align="left">
+<a href="https://himanshubalani.hashnode.dev//2022-wrap-up" title="2022 Wrap-Up: Opportunities to live by and Rejections to remember"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675183482186/39e6febf-9b4b-40e0-a81b-20ed252597a6.png" alt="2022 Wrap-Up: Opportunities to live by and Rejections to remember" width="250px" align="left" /></a>
+<a href="https://himanshubalani.hashnode.dev//2022-wrap-up" title="2022 Wrap-Up: Opportunities to live by and Rejections to remember"><strong>2022 Wrap-Up: Opportunities to live by and Rejections to remember</strong></a>
+<br/> TL;DR
+I had a motto this year - Don't give it to me easy, I like a little challenge winning feels better when you take a little damage. I took it a little too seriously and it caused some trouble. This was a fruitful year of learning, making new frie... </p> <br/> <br/>
+<p align="left">
+<a href="https://himanshubalani.hashnode.dev//the-ins-and-outs-of-apis" title="The Ins and Outs of APIs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674651464092/d01f063d-ecf6-4d11-aa38-fb7c489e4b18.png" alt="The Ins and Outs of APIs" width="250px" align="left" /></a>
+<a href="https://himanshubalani.hashnode.dev//the-ins-and-outs-of-apis" title="The Ins and Outs of APIs"><strong>The Ins and Outs of APIs</strong></a>
+<br/> As we read in my previous blog, APIs are a type of agreement between web services defining how they will exchange data, like when accessing a map or your login details. Lets's now take a deeper dive.
+API Protocols
+API protocols make it easier to shar... </p> <br/> <br/>
+<p align="left">
+<a href="https://himanshubalani.hashnode.dev//the-acronym-that-lets-you-see-the-internet-safely" title="The Acronym that lets you see the Internet safely"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674396159109/76facb39-ae06-46df-a44c-086de1736f25.png" alt="The Acronym that lets you see the Internet safely" width="250px" align="left" /></a>
+<a href="https://himanshubalani.hashnode.dev//the-acronym-that-lets-you-see-the-internet-safely" title="The Acronym that lets you see the Internet safely"><strong>The Acronym that lets you see the Internet safely</strong></a>
+<br/> What are HTTP and HTTPS?
+The Hypertext Transfer Protocol (HTTP) is the foundation of communications on the internet. It is the protocol that enables communication between websites, web browsers, and web servers. HTTP is used for transferring data bet... </p> <br/> <br/>
+<p align="left">
+<a href="https://himanshubalani.hashnode.dev//teaching-a-kid-how-machines-learn" title="Teaching a kid how machines learn"><img src="https://cdn.hashnode.com/res/hashnode/image/unsplash/5VJLeQ-TrKs/upload/v1660636209935/A6lHCZtsQV.jpeg" alt="Teaching a kid how machines learn" width="250px" align="left" /></a>
+<a href="https://himanshubalani.hashnode.dev//teaching-a-kid-how-machines-learn" title="Teaching a kid how machines learn"><strong>Teaching a kid how machines learn</strong></a>
+<br/> Introduction
+On the internet,  algorithms are all around you. You are reading this blog (among other things) because an algorithm tricked you into clicking, and the algorithm noticed. When you open Twitter, an algorithm (say Arc) decides what you see... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 [![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshubalani&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
