@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: 'himanshubalani' # Hashnode Username
           BLOG_URL: 'https://himanshubalani.hashnode.dev/' # Blog URL
-          COUNT: 5 # MAX Visisble
+          COUNT: 3 # MAX Visisble
           STYLE: "blog-left" #Left Thumbnail Card
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
