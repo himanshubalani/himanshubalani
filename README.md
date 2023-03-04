@@ -30,7 +30,7 @@
 
   </br>
  
-## My Latest Blog Posts 👇
+## Latest Blog Posts on Hertz by Himanshu 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://himanshubalani.hashnode.dev//my-experience-with-keploy-api-fellowship" title="My experience with Keploy API Fellowship"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675880927980/9ad853c7-0bd7-47d6-ab26-5475bc3cde1c.png" alt="My experience with Keploy API Fellowship" width="250px" align="left" /></a>
@@ -52,12 +52,11 @@ API protocols make it easier to shar... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
-<br>
-<br>
-<b><a href="https://himanshubalani.hashnode.dev/">Check out all my blogs on Hashnode..</a></b>
+
+<b><a href="https://himanshubalani.hashnode.dev/">Check out all my blog posts on Hashnode..</a></b>
 
 <br>
-<br>
+
 
 [![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshubalani&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
      
