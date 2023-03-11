@@ -33,6 +33,12 @@
 ## Latest Blog Posts on Hertz by Himanshu 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://himanshubalani.hashnode.dev//10-reasons-why-you-should-contribute-to-open-source-on-github-today" title="10 Reasons why you should contribute to Open-Source on GitHub today"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678540918547/ed77a2a0-f07e-427f-b6a1-ea813bbdb0d8.jpeg" alt="10 Reasons why you should contribute to Open-Source on GitHub today" width="250px" align="left" /></a>
+<a href="https://himanshubalani.hashnode.dev//10-reasons-why-you-should-contribute-to-open-source-on-github-today" title="10 Reasons why you should contribute to Open-Source on GitHub today"><strong>10 Reasons why you should contribute to Open-Source on GitHub today</strong></a>
+<br/> Open-Source is a buzzword you'll either hear a lot about or not at all. If you're just starting out or even a professional, learning about open-source could open many doors for you. Not convinced? let's look at a few reasons -
+It's free!
+It doesn't c... </p> <br/> <br/>
+<p align="left">
 <a href="https://himanshubalani.hashnode.dev//my-experience-with-keploy-api-fellowship" title="My experience with Keploy API Fellowship"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675880927980/9ad853c7-0bd7-47d6-ab26-5475bc3cde1c.png" alt="My experience with Keploy API Fellowship" width="250px" align="left" /></a>
 <a href="https://himanshubalani.hashnode.dev//my-experience-with-keploy-api-fellowship" title="My experience with Keploy API Fellowship"><strong>My experience with Keploy API Fellowship</strong></a>
 <br/> Late last year, I took the opportunity to partake in the Fellowship and for the last 2 weeks, I've been attending their sessions and learning all about APIs.
@@ -43,12 +49,6 @@ Keploy is an open-source end-to-end testing toolkit for developers that gene... 
 <a href="https://himanshubalani.hashnode.dev//2022-wrap-up" title="2022 Wrap-Up: Opportunities to live by and Rejections to remember"><strong>2022 Wrap-Up: Opportunities to live by and Rejections to remember</strong></a>
 <br/> TL;DR
 I had a motto this year - Don't give it to me easy, I like a little challenge winning feels better when you take a little damage. I took it a little too seriously and it caused some trouble. This was a fruitful year of learning, making new frie... </p> <br/> <br/>
-<p align="left">
-<a href="https://himanshubalani.hashnode.dev//the-ins-and-outs-of-apis" title="The Ins and Outs of APIs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1674651464092/d01f063d-ecf6-4d11-aa38-fb7c489e4b18.png" alt="The Ins and Outs of APIs" width="250px" align="left" /></a>
-<a href="https://himanshubalani.hashnode.dev//the-ins-and-outs-of-apis" title="The Ins and Outs of APIs"><strong>The Ins and Outs of APIs</strong></a>
-<br/> As we read in my previous blog, APIs are a type of agreement between web services defining how they will exchange data, like when accessing a map or your login details. Lets's now take a deeper dive.
-API Protocols
-API protocols make it easier to shar... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
