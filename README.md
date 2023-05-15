@@ -13,10 +13,7 @@
 
 ## Languages/Tools I can work with
   
-  <img title="C" height="40px" src="https://img.icons8.com/color/240/000000/c-programming.png" /> &nbsp;&nbsp;&nbsp;
-  <img title="C++" height="40px" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png" /> &nbsp;&nbsp;&nbsp;
   <img title="Python" height="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"/> &nbsp;&nbsp;&nbsp;
-  <img title="Java" height="50px" src="https://user-images.githubusercontent.com/85930567/155731762-c66a50e0-5f3c-4ea2-b123-4a818346e835.png"/> &nbsp;&nbsp;&nbsp;
   <img title="Dart" height="40px" src="https://img.icons8.com/color/50/000000/dart.png"/> &nbsp;&nbsp;&nbsp;
   <img title="HTML 5" height="40px" src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp;&nbsp;&nbsp;
   <img title="CSS3" height="40px" src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp;&nbsp;&nbsp;
