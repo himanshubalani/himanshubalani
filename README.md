@@ -30,6 +30,15 @@
 ## Latest Blog Posts on Hertz by Himanshu 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://himanshubalani.hashnode.dev//cookbook1" title="Cookbook #1: Making a website that talks to an API is surprisingly easy."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684778709402/09b9abe8-5e96-458f-bfa3-2cb37d364398.png" alt="Cookbook #1: Making a website that talks to an API is surprisingly easy." width="250px" align="left" /></a>
+<a href="https://himanshubalani.hashnode.dev//cookbook1" title="Cookbook #1: Making a website that talks to an API is surprisingly easy."><strong>Cookbook #1: Making a website that talks to an API is surprisingly easy.</strong></a>
+<br/> Let's create a website that integrates an API to show useful information such as the weather. Here's a comprehensive guide with simplified steps that any beginner can follow along.
+Ingredients:
+
+HTML/CSS for the webpage
+
+JavaScript for talking to the... </p> <br/> <br/>
+<p align="left">
 <a href="https://himanshubalani.hashnode.dev//10-reasons-why-you-should-contribute-to-open-source-on-github-today" title="10 Reasons why you should contribute to Open-Source on GitHub today"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678540918547/ed77a2a0-f07e-427f-b6a1-ea813bbdb0d8.jpeg" alt="10 Reasons why you should contribute to Open-Source on GitHub today" width="250px" align="left" /></a>
 <a href="https://himanshubalani.hashnode.dev//10-reasons-why-you-should-contribute-to-open-source-on-github-today" title="10 Reasons why you should contribute to Open-Source on GitHub today"><strong>10 Reasons why you should contribute to Open-Source on GitHub today</strong></a>
 <br/> Open-Source is a buzzword you'll either hear a lot about or not at all. If you're just starting out or even a professional, learning about open-source could open many doors for you. Not convinced? let's look at a few reasons -
@@ -41,11 +50,6 @@ It doesn't c... </p> <br/> <br/>
 <br/> Late last year, I took the opportunity to partake in the Fellowship and for the last 2 weeks, I've been attending their sessions and learning all about APIs.
 What is Keploy?
 Keploy is an open-source end-to-end testing toolkit for developers that gene... </p> <br/> <br/>
-<p align="left">
-<a href="https://himanshubalani.hashnode.dev//2022-wrap-up" title="2022 Wrap-Up: Opportunities to live by and Rejections to remember"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675183482186/39e6febf-9b4b-40e0-a81b-20ed252597a6.png" alt="2022 Wrap-Up: Opportunities to live by and Rejections to remember" width="250px" align="left" /></a>
-<a href="https://himanshubalani.hashnode.dev//2022-wrap-up" title="2022 Wrap-Up: Opportunities to live by and Rejections to remember"><strong>2022 Wrap-Up: Opportunities to live by and Rejections to remember</strong></a>
-<br/> TL;DR
-I had a motto this year - Don't give it to me easy, I like a little challenge winning feels better when you take a little damage. I took it a little too seriously and it caused some trouble. This was a fruitful year of learning, making new frie... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
