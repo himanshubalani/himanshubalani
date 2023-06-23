@@ -30,6 +30,11 @@
 ## Latest Blog Posts on Hertz by Himanshu 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://himanshubalani.hashnode.dev//abstraction-ai" title="Abstraction, Artificial intelligence and the Ability to understand tech underlying"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687466323458/c45e888c-8d44-4019-8908-262acad1cdd7.png" alt="Abstraction, Artificial intelligence and the Ability to understand tech underlying" width="250px" align="left" /></a>
+<a href="https://himanshubalani.hashnode.dev//abstraction-ai" title="Abstraction, Artificial intelligence and the Ability to understand tech underlying"><strong>Abstraction, Artificial intelligence and the Ability to understand tech underlying</strong></a>
+<br/> What is Abstraction?
+In object-oriented programming (OOP), abstraction is a fundamental concept that focuses on representing essential features or behaviours of real-world objects in a simplified and generalized manner. Abstraction aims to hide unnec... </p> <br/> <br/>
+<p align="left">
 <a href="https://himanshubalani.hashnode.dev//cookbook1" title="Cookbook #1: Making a website that talks to an API is surprisingly easy."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684778709402/09b9abe8-5e96-458f-bfa3-2cb37d364398.png" alt="Cookbook #1: Making a website that talks to an API is surprisingly easy." width="250px" align="left" /></a>
 <a href="https://himanshubalani.hashnode.dev//cookbook1" title="Cookbook #1: Making a website that talks to an API is surprisingly easy."><strong>Cookbook #1: Making a website that talks to an API is surprisingly easy.</strong></a>
 <br/> Let's create a website that integrates an API to show useful information such as the weather. Here's a comprehensive guide with simplified steps that any beginner can follow along.
@@ -44,12 +49,6 @@ JavaScript for talking to the... </p> <br/> <br/>
 <br/> Open-Source is a buzzword you'll either hear a lot about or not at all. If you're just starting out or even a professional, learning about open-source could open many doors for you. Not convinced? let's look at a few reasons -
 It's free!
 It doesn't c... </p> <br/> <br/>
-<p align="left">
-<a href="https://himanshubalani.hashnode.dev//my-experience-with-keploy-api-fellowship" title="My experience with Keploy API Fellowship"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675880927980/9ad853c7-0bd7-47d6-ab26-5475bc3cde1c.png" alt="My experience with Keploy API Fellowship" width="250px" align="left" /></a>
-<a href="https://himanshubalani.hashnode.dev//my-experience-with-keploy-api-fellowship" title="My experience with Keploy API Fellowship"><strong>My experience with Keploy API Fellowship</strong></a>
-<br/> Late last year, I took the opportunity to partake in the Fellowship and for the last 2 weeks, I've been attending their sessions and learning all about APIs.
-What is Keploy?
-Keploy is an open-source end-to-end testing toolkit for developers that gene... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
