@@ -61,7 +61,7 @@ It doesn't c... </p> <br/> <br/>
 <br>
 
 
-[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshubalani&show_icons=true&theme=outrun&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshubalani&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
      
 [![Image of https://github.com/himanshubalani/profile-view-counter](https://github.com/himanshubalani/profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/himanshubalani/profile-view-counter)
 <br>
