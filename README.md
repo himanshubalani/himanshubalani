@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://himanshubalani.hashnode.dev//abstraction-ai" title="Abstraction, Artificial intelligence and the Ability to understand tech underlying"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687466323458/c45e888c-8d44-4019-8908-262acad1cdd7.png" alt="Abstraction, Artificial intelligence and the Ability to understand tech underlying" width="250px" align="left" /></a>
 <a href="https://himanshubalani.hashnode.dev//abstraction-ai" title="Abstraction, Artificial intelligence and the Ability to understand tech underlying"><strong>Abstraction, Artificial intelligence and the Ability to understand tech underlying</strong></a>
-<div><strong>23 June 2023</strong></div>
+<div><strong>23 June 2023</strong> | <strong>Updated: 24 June 2023</strong></div>
 <br/> What is Abstraction?
 In object-oriented programming (OOP), abstraction is a fundamental concept that focuses on representing essential features or behaviours of real-world objects in a simplified and generalized manner. Abstraction aims to hide unnec... </p> <br/> <br/>
 <p align="left">
