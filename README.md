@@ -66,13 +66,6 @@ It doesn't c... </p> <br/> <br/>
 [![Image of https://github.com/himanshubalani/profile-view-counter](https://github.com/himanshubalani/profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/himanshubalani/profile-view-counter)
 <br>
 
-See this Snake Game with my contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
      
 ## Let's Talk
 
