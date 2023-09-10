@@ -66,7 +66,13 @@ It doesn't c... </p> <br/> <br/>
 [![Image of https://github.com/himanshubalani/profile-view-counter](https://github.com/himanshubalani/profile-view-counter/blob/master/svg/profile/badge.svg)](https://github.com/himanshubalani/profile-view-counter)
 <br>
 
-     
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/himanshubalani/himanshubalani/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/himanshubalani/himanshubalani/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 ## Let's Talk
 
 You can reach me through these links <br>
