@@ -30,6 +30,13 @@
 ## Latest Blog Posts on Hertz by Himanshu 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://himanshubalani.hashnode.dev//fantastic-communities" title="Fantastic Communities and where to find them"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1694676209013/42a513b7-cf76-4bbb-b99b-a2126b5ebb3c.png" alt="Fantastic Communities and where to find them" width="250px" align="left" /></a>
+<a href="https://himanshubalani.hashnode.dev//fantastic-communities" title="Fantastic Communities and where to find them"><strong>Fantastic Communities and where to find them</strong></a>
+<div><strong>14 Sept 2023</strong> | <strong>Updated: 14 Sept 2023</strong></div>
+<br/> Are you a seasoned developer or just breaking into tech? It's important to build relationships with like-minded individuals either way. Let's see how you can explore communities.
+What IS a community?
+A community (in the tech world at least) is a grou... </p> <br/> <br/>
+<p align="left">
 <a href="https://himanshubalani.hashnode.dev//abstraction-ai" title="Abstraction, Artificial intelligence and the Ability to understand tech underlying"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687466323458/c45e888c-8d44-4019-8908-262acad1cdd7.png" alt="Abstraction, Artificial intelligence and the Ability to understand tech underlying" width="250px" align="left" /></a>
 <a href="https://himanshubalani.hashnode.dev//abstraction-ai" title="Abstraction, Artificial intelligence and the Ability to understand tech underlying"><strong>Abstraction, Artificial intelligence and the Ability to understand tech underlying</strong></a>
 <div><strong>23 June 2023</strong> | <strong>Updated: 24 June 2023</strong></div>
@@ -45,13 +52,6 @@ Ingredients:
 HTML/CSS for the webpage
 
 JavaScript for talking to the... </p> <br/> <br/>
-<p align="left">
-<a href="https://himanshubalani.hashnode.dev//10-reasons-why-you-should-contribute-to-open-source-on-github-today" title="10 Reasons why you should contribute to Open-Source on GitHub today"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1678540918547/ed77a2a0-f07e-427f-b6a1-ea813bbdb0d8.jpeg" alt="10 Reasons why you should contribute to Open-Source on GitHub today" width="250px" align="left" /></a>
-<a href="https://himanshubalani.hashnode.dev//10-reasons-why-you-should-contribute-to-open-source-on-github-today" title="10 Reasons why you should contribute to Open-Source on GitHub today"><strong>10 Reasons why you should contribute to Open-Source on GitHub today</strong></a>
-<div><strong>11 Mar 2023</strong> | <strong>Updated: 11 Mar 2023</strong></div>
-<br/> Open-Source is a buzzword you'll either hear a lot about or not at all. If you're just starting out or even a professional, learning about open-source could open many doors for you. Not convinced? let's look at a few reasons -
-It's free!
-It doesn't c... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
