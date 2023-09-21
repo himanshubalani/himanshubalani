@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on increasing my skillset.
 - 🌱 I’m currently learning a lot of stuff like DBMS, DSA, Flutter and Dart among others.
 - 🥇 I'm proficient in Python and it's libraries.
-- 🎓 I'm in junior year and am pursuing a degree in CS.
+- 🎓 I'm in my senoir year pursuing a graduate degree in CS.
 - 🌟 Fun Fact: I Like Magnets🧲 and Cosmology. Let's have an existential crisis together.🙂
 - 😄 Pronouns: He/Him
 
