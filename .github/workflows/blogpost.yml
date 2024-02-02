@@ -11,14 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@v2
+        uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+        uses: 'Sachin-chaurasiya/hashnode-blog-action@main'
         with:
-          USERNAME: 'himanshubalani' # Hashnode Username
-          BLOG_URL: 'https://himanshubalani.hashnode.dev/' # Blog URL
-          COUNT: 3 # MAX Visisble
-          STYLE: "blog-left" #Left Thumbnail Card
+          HASHNODE_PUBLICATION_NAME: 'himanshubalani.hashnode.dev'
+          POST_COUNT: 3
+          FORMAT: 'table'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
