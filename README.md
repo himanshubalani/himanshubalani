@@ -3,38 +3,41 @@
 ![Himanshu (1)](https://user-images.githubusercontent.com/85930567/130409887-7c0452c9-89ff-4a22-adb3-e3a47e9fbd1d.png)
 
      
-- 🔭 I’m currently working on increasing my skillset.
-- 🌱 I’m currently learning a lot of stuff like DBMS, DSA, Flutter and Dart among others.
-- 🥇 I'm proficient in Python and it's libraries.
-- 🎓 I'm in my senoir year pursuing a graduate degree in CS.
+- 🔭 I’m currently working on increasing my skillset dramatically.
+- 🌱 I’m currently learning a lot of stuff around Applied AI and soon Core AI among other development skills.
+- 🥇 I make apps and websites.
+- 🎓 I'm pursuing Masters in CS/AI-ML.
 - 🌟 Fun Fact: I Like Magnets🧲 and Cosmology. Let's have an existential crisis together.🙂
 - 😄 Pronouns: He/Him
+
+2026 Projects so far -
+ - [ClerioGPT](https://gpt.askclerio.dev) - A ChatGPT clone
+ - [Clerio Code](https://github.com/himanshubalani/cleriocode) - An end-to-end code shipping pipeline.(Un-published for now, fronetend present but there will be bugs)
+ - [Ask Clerio](https://askclerio.dev) - A email + calendar client that integrates AI and helps you manage your inbox and your day.
+ - [Persona AI](https://persona.askclerio.dev) - Imitations of real people but is actually AI!
+ - [one million checkboxes](https://github.com/himanshubalani/CheckBoxes) - One Million Checkboxes remake. Read [Blog](https://blog.himanshubalani.com/omcb)
+ - [Himanshu Balani Album](https://album.himanshubalani.com) - Photos I took. Special grifd algorithm. Made a custom Flutter App to upload photos whenever.
+
 
 
 ## Languages/Tools I can work with
   
-  <img title="Python" height="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"/> &nbsp;&nbsp;&nbsp;
+ <img title="Flutter" height="40px" src="https://user-images.githubusercontent.com/85930567/147389443-b0e06295-4659-4b21-a6ac-0c69bc3baafb.png"/> &nbsp;&nbsp;&nbsp;
   <img title="Dart" height="40px" src="https://img.icons8.com/color/50/000000/dart.png"/> &nbsp;&nbsp;&nbsp;
   <img title="HTML 5" height="40px" src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp;&nbsp;&nbsp;
   <img title="CSS3" height="40px" src="https://img.icons8.com/color/48/000000/css3.png"/> &nbsp;&nbsp;&nbsp;
+    <img title="Javascript" height="40px" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>  &nbsp;&nbsp;&nbsp;
+    <img title="Python" height="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"/> &nbsp;&nbsp;&nbsp;
   <img title="Markdown" height="40px" src="https://img.icons8.com/office/80/000000/markdown.png"/> &nbsp;&nbsp;&nbsp;
   <img title="Google Cloud" height="40px" src="https://user-images.githubusercontent.com/85930567/175771081-bb6c0e28-5fab-4c71-9639-dabf475d571a.png"/> &nbsp;&nbsp;&nbsp;
   <img title="Git" height="40px" src="https://user-images.githubusercontent.com/85930567/155733391-1cad1bbc-b9d6-4fd9-91c2-37f778f88a96.png" /> &nbsp;&nbsp;&nbsp;
-  <img title="Flutter" height="40px" src="https://user-images.githubusercontent.com/85930567/147389443-b0e06295-4659-4b21-a6ac-0c69bc3baafb.png"/> &nbsp;&nbsp;&nbsp;
+  <img title="NextJs" height="40px" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" />  &nbsp;&nbsp;&nbsp;
   <img title="VS Code" height="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/> &nbsp;&nbsp;&nbsp;
   <img title="Android Studio" height="40px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
   
 
   </br>
- 
-## Latest Blog Posts on Hertz by Himanshu 👇
-<!-- HASHNODE_BLOG:START -->
-<table><tr><td><img src="https://cdn.hashnode.com/uploads/covers/62f90cb469fa1793160c5cd0/60c6c957-a353-4bb0-86bb-01127e8f8588.png" alt="The Reason Version Control was built"></td><td><a href="https://blog.himanshubalani.com/the-reason-version-control-was-built"><strong>The Reason Version Control was built</strong></a><br>When I first thought about how developers used to collaborate before modern version control, I expected to find some archaic but functional network protocol. I expected a systematic, albeit clunky, wa</td></tr><tr><td><img src="https://cdn.hashnode.com/uploads/covers/62f90cb469fa1793160c5cd0/008c2c89-b2f9-44f0-985b-69831118a4a2.png" alt="How Linux runs on files - The Linux File System"></td><td><a href="https://blog.himanshubalani.com/linux-file-system"><strong>How Linux runs on files - The Linux File System</strong></a><br>Today, I find myself staring into the depths of Debian Linux terminal running on a virtual machine. At first the Linux file system felt like an incomprehensible labyrinth. Coming from a Windows backgr</td></tr><tr><td><img src="https://cdn.hashnode.com/uploads/covers/62f90cb469fa1793160c5cd0/66ab1512-38f5-4410-aa77-09c7c741eadd.png" alt="Ghost Processes: See What Your Computer Is Really Doing"></td><td><a href="https://blog.himanshubalani.com/ghost-processes"><strong>Ghost Processes: See What Your Computer Is Really Doing</strong></a><br>Do you ever find yourself looking at Task manager puzzled trying to find what is using all that precious RAM in my PC and can't find it? Do you perhaps have a local server running that you don't know </td></tr></table>
-<!-- HASHNODE_BLOG:END -->
 
-
-
-<b><a href="https://himanshubalani.hashnode.dev/">Check out all my blog posts on Hashnode..</a></b>
 
 <br>
 
